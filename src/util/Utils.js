@@ -32,7 +32,7 @@ let Utils = {
 			}
 		}else{
 			formIsValid = false;
-			errors = "Please enter the password. ex: abcdef@11";
+			errors = "Please enter the password. ex: Abcdef@11mnop";
 		}
 		return this.returnObj(formIsValid, errors);
     },
