@@ -1,0 +1,53 @@
+{
+  "name": "Kanbanboard",
+  "version": "1.0.0",
+  "description": "Kanban Board",
+  "main": "./src/Kanbanboard.js",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server",
+    "compile": "webpack --config webpack.config.js",
+    "build": "webpack -d --progress --colors"
+  },
+  "author": "Himani Bhardwaj",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "comment",
+    "example"
+  ],
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+	"react-component-metadata": "^3.1.0",
+	"history": "^4.5.1",
+	"react-router": "4.0.0-beta.6",
+	"react-router-dom": "4.0.0-beta.6",
+	"babel-cli": "^6.11.4",
+    "babel-core": "^6.13.2",
+    "babel-eslint": "^6.1.2",
+    "babel-loader": "^6.2.5",
+	"babel-preset-react":"^6.11.1",
+	"babel-preset-es2015":"^6.13.2",
+	"bootstrap": "^3.3.6",
+	"css-loader": "^0.23.1",
+	"http-proxy": "^1.14.0",
+	"webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1",
+	"react-fontawesome": "~1.6.1",
+	"react-popup":"^0.8.0",
+	"react-date-picker": "^5.0.0",
+	"prop-types": "^15.5.7",
+	"axios":"0.16.2",
+	"webpack-php-mock":"1.1.0",
+	"file-system":"2.2.2",
+	"body-parser":"1.17.0",
+	"react-edit-inline":"^1.0.0",
+	"moment":"2.18.1"
+  }
+}

@@ -1,0 +1,29 @@
+[{
+	"title": "Controller Interface",
+	"project": "Hybrid Mobile Application",
+	"asignee": "Paul Clark",
+	"lastDate":"2017-07-21",
+	"description": "Implementing the get webservice for stories",
+	"uniqueId": 1
+},{
+	"title": "UI Implementation",
+	"project": "Hybrid Mobile Application",
+	"asignee": "Sam Deering",
+	"lastDate": "2017-07-21",
+	"description": "Implementing the UI interface to display stories",
+	"uniqueId": 2
+},{
+	"title": "Database table creation for stories",
+	"project": "Hybrid Mobile Application",
+	"asignee": "Paul Clark",
+	"lastDate":"2017-07-21",
+	"description": "Implementing the get webservice for stories",
+	"uniqueId": 3
+},{
+	"title": "Test scenerios for stories",
+	"project": "Hybrid Mobile Application",
+	"asignee": "John Smith",
+	"lastDate": "2017-07-21",
+	"description": "Implementing the UI interface to display stories",
+	"uniqueId": 4
+}]
