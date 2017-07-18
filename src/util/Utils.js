@@ -28,7 +28,7 @@ let Utils = {
 	    if(pwd !== null){
 			if(!rpwdExp.test(pwd)){
 				formIsValid = false;
-				errors = "Password should contain a combination of Block letter, special character and numbers. ex: abcdef@11";
+				errors = "Password should contain a combination of Block letter, special character and numbers. ex: Abcdef@11mnop";
 			}
 		}else{
 			formIsValid = false;
